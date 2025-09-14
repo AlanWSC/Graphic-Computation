@@ -5,7 +5,7 @@ Estás pastas contém códigos de dois trabalhos solicitados durante a disciplin
 ##1 - Processamento de Imagem
 O código tem como objetivo fazer alterações nas imagens carregadas.
 1. Terá que baixar as dependências
-'''
+```
 pip install opencv-python
                 tkinter
                 numpy
